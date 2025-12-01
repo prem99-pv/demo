@@ -1,0 +1,112 @@
+.navtitle{
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    gap: 5px;
+}
+.navtitle img{
+    width: 75px;
+}
+.navlinks{
+    padding-right: 100px;
+}
+.navlinks button{
+    margin-left: 15px;
+    border-radius:100px;
+}
+.buttons{
+    gap: 50px;
+    
+}
+.buttons button{
+    border-radius: 100px;
+    border-color: #DAA520;
+    background-color: white;  
+    
+}
+.products{
+    display: flex;
+    gap: 50px;
+    margin-block: 50px;
+    
+}
+.card1{
+    margin-top: 50px;
+    width: 250px;
+    height: 350px;
+}
+.card1 .im1 img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+.card1 p{
+    color: grey;
+}
+.card1 .star{
+    color: gold;
+}
+
+
+.card2{
+    margin-top: 50px;
+    width: 250px;
+    
+}
+.card2 .im2 img{
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+}
+.card2 p{
+    color: grey;
+}
+.card2 .star{
+    color: gold;
+}
+
+.card3{
+    margin-top: 50px;
+    width: 250px;
+    
+}
+.card3 .im3 img{
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+}
+.card3 p{
+    color: grey;
+}
+.card3 .star{
+    color: gold;
+}
+
+.card4{
+    margin-top: 50px;
+    width: 250px;
+}
+.card4 .im4 img{
+    width: 150px;
+    height: 200px;
+    object-fit: cover;
+}
+.card4 p{
+    color: grey;
+}
+.card4 .star{
+    color: gold;
+}
+
+.products2{
+    display: flex;
+    gap: 50px;
+    margin-block: 50px;
+}
+.footer{
+    background-color: rgba(255, 228, 196, 0.853);
+    color: black;
+    
+}
+
+
